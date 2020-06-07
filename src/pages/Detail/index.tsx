@@ -37,7 +37,7 @@ const Detail = () => {
           onPress={() => {}}
         >
           <Icon name="phone" size={20} color="#fff" />
-          <Text style={styles.buttonText}>Phone</Text>
+          <Text style={styles.buttonText}>Phone </Text>
         </RectButton>
 
         <RectButton
